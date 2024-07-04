@@ -1,0 +1,1061 @@
+﻿  Bone.cpp
+D:\f\AimStar-main\CS2_External\Utils\ProcessManager.hpp(8,1): warning C4005: _is_invalid: изменение макроопределения
+  (компиляция исходного файла "Bone.cpp")
+  D:\f\AimStar-main\CS2_External\Utils\ProcessManager.hpp(7,1):
+  см. предыдущее определение "_is_invalid"
+  
+D:\f\AimStar-main\CS2_External\Utils\ProcessManager.hpp(129,40): warning C4244: *=: преобразование "double" в "DWORD", возможна потеря данных
+  (компиляция исходного файла "Bone.cpp")
+  
+D:\f\AimStar-main\CS2_External\Utils\ProcessManager.hpp(150,21): warning C4018: <: несоответствие типов со знаком и без знака
+  (компиляция исходного файла "Bone.cpp")
+  
+D:\f\AimStar-main\CS2_External\Utils\ProcessManager.hpp(161,32): warning C4312: приведение типов: преобразование из "ULONG" в "DWORD *" большего размера
+  (компиляция исходного файла "Bone.cpp")
+  
+  Cheats.cpp
+D:\f\AimStar-main\CS2_External\Utils\ProcessManager.hpp(8,1): warning C4005: _is_invalid: изменение макроопределения
+  (компиляция исходного файла "Cheats.cpp")
+  D:\f\AimStar-main\CS2_External\Utils\ProcessManager.hpp(7,1):
+  см. предыдущее определение "_is_invalid"
+  
+D:\f\AimStar-main\CS2_External\Utils\ProcessManager.hpp(129,40): warning C4244: *=: преобразование "double" в "DWORD", возможна потеря данных
+  (компиляция исходного файла "Cheats.cpp")
+  
+D:\f\AimStar-main\CS2_External\Utils\ProcessManager.hpp(150,21): warning C4018: <: несоответствие типов со знаком и без знака
+  (компиляция исходного файла "Cheats.cpp")
+  
+D:\f\AimStar-main\CS2_External\Utils\ProcessManager.hpp(161,32): warning C4312: приведение типов: преобразование из "ULONG" в "DWORD *" большего размера
+  (компиляция исходного файла "Cheats.cpp")
+  
+D:\f\AimStar-main\CS2_External\MenuConfig.hpp(153,23): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+  (компиляция исходного файла "Cheats.cpp")
+  
+D:\f\AimStar-main\CS2_External\Features\RCS.h(17,21): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+  (компиляция исходного файла "Cheats.cpp")
+  
+D:\f\AimStar-main\CS2_External\Features\RCS.h(18,21): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+  (компиляция исходного файла "Cheats.cpp")
+  
+D:\f\AimStar-main\CS2_External\Features\RCS.h(22,14): warning C4101: clientState: неиспользованная локальная переменная
+  (компиляция исходного файла "Cheats.cpp")
+  
+D:\f\AimStar-main\CS2_External\Features\RCS.h(74,35): warning C4018: >: несоответствие типов со знаком и без знака
+  (компиляция исходного файла "Cheats.cpp")
+  
+D:\f\AimStar-main\CS2_External\AimBot.hpp(49,35): warning C4018: <: несоответствие типов со знаком и без знака
+  (компиляция исходного файла "Cheats.cpp")
+  
+D:\f\AimStar-main\CS2_External\AimBot.hpp(69,27): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+  (компиляция исходного файла "Cheats.cpp")
+  
+D:\f\AimStar-main\CS2_External\AimBot.hpp(70,27): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+  (компиляция исходного файла "Cheats.cpp")
+  
+D:\f\AimStar-main\CS2_External\AimBot.hpp(76,24): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+  (компиляция исходного файла "Cheats.cpp")
+  
+D:\f\AimStar-main\CS2_External\AimBot.hpp(83,23): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+  (компиляция исходного файла "Cheats.cpp")
+  
+D:\f\AimStar-main\CS2_External\AimBot.hpp(90,55): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+  (компиляция исходного файла "Cheats.cpp")
+  
+D:\f\AimStar-main\CS2_External\AimBot.hpp(102,57): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+  (компиляция исходного файла "Cheats.cpp")
+  
+D:\f\AimStar-main\CS2_External\AimBot.hpp(103,59): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+  (компиляция исходного файла "Cheats.cpp")
+  
+D:\f\AimStar-main\CS2_External\AimBot.hpp(104,20): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+  (компиляция исходного файла "Cheats.cpp")
+  
+D:\f\AimStar-main\CS2_External\AimBot.hpp(164,52): warning C4244: аргумент: преобразование "float" в "DWORD", возможна потеря данных
+  (компиляция исходного файла "Cheats.cpp")
+  
+D:\f\AimStar-main\CS2_External\AimBot.hpp(164,43): warning C4244: аргумент: преобразование "float" в "DWORD", возможна потеря данных
+  (компиляция исходного файла "Cheats.cpp")
+  
+D:\f\AimStar-main\CS2_External\AimBot.hpp(183,24): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+  (компиляция исходного файла "Cheats.cpp")
+  
+D:\f\AimStar-main\CS2_External\AimBot.hpp(185,57): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+  (компиляция исходного файла "Cheats.cpp")
+  
+D:\f\AimStar-main\CS2_External\AimBot.hpp(186,59): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+  (компиляция исходного файла "Cheats.cpp")
+  
+D:\f\AimStar-main\CS2_External\AimBot.hpp(187,20): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+  (компиляция исходного файла "Cheats.cpp")
+  
+D:\f\AimStar-main\CS2_External\AimBot.hpp(195,35): warning C4018: >: несоответствие типов со знаком и без знака
+  (компиляция исходного файла "Cheats.cpp")
+  
+D:\f\AimStar-main\CS2_External\Features\Misc.h(51,13): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  (компиляция исходного файла "Cheats.cpp")
+  
+D:\f\AimStar-main\CS2_External\Render.hpp(37,41): warning C4305: аргумент: усечение из "double" в "float"
+  (компиляция исходного файла "Cheats.cpp")
+  
+D:\f\AimStar-main\CS2_External\Render.hpp(67,16): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+  (компиляция исходного файла "Cheats.cpp")
+  
+D:\f\AimStar-main\CS2_External\Render.hpp(68,19): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+  (компиляция исходного файла "Cheats.cpp")
+  
+D:\f\AimStar-main\CS2_External\Render.hpp(80,19): warning C4244: инициализация: преобразование "int" в "float", возможна потеря данных
+  (компиляция исходного файла "Cheats.cpp")
+  
+D:\f\AimStar-main\CS2_External\Render.hpp(176,46): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+  (компиляция исходного файла "Cheats.cpp")
+  
+D:\f\AimStar-main\CS2_External\Render.hpp(197,36): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+  (компиляция исходного файла "Cheats.cpp")
+  
+D:\f\AimStar-main\CS2_External\Render.hpp(214,57): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+  (компиляция исходного файла "Cheats.cpp")
+  
+D:\f\AimStar-main\CS2_External\Render.hpp(215,19): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+  (компиляция исходного файла "Cheats.cpp")
+  
+D:\f\AimStar-main\CS2_External\Render.hpp(217,70): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+  (компиляция исходного файла "Cheats.cpp")
+  
+D:\f\AimStar-main\CS2_External\Render.hpp(263,20): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+  (компиляция исходного файла "Cheats.cpp")
+  
+D:\f\AimStar-main\CS2_External\Render.hpp(265,23): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+  (компиляция исходного файла "Cheats.cpp")
+  
+D:\f\AimStar-main\CS2_External\Render.hpp(266,23): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+  (компиляция исходного файла "Cheats.cpp")
+  
+D:\f\AimStar-main\CS2_External\Render.hpp(267,23): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+  (компиляция исходного файла "Cheats.cpp")
+  
+D:\f\AimStar-main\CS2_External\Render.hpp(287,20): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+  (компиляция исходного файла "Cheats.cpp")
+  
+D:\f\AimStar-main\CS2_External\Render.hpp(289,23): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+  (компиляция исходного файла "Cheats.cpp")
+  
+D:\f\AimStar-main\CS2_External\Render.hpp(290,23): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+  (компиляция исходного файла "Cheats.cpp")
+  
+D:\f\AimStar-main\CS2_External\Render.hpp(291,23): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+  (компиляция исходного файла "Cheats.cpp")
+  
+D:\f\AimStar-main\CS2_External\Render.hpp(392,22): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+  (компиляция исходного файла "Cheats.cpp")
+  
+D:\f\AimStar-main\CS2_External\Render.hpp(426,20): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+  (компиляция исходного файла "Cheats.cpp")
+  
+D:\f\AimStar-main\CS2_External\Render.hpp(427,24): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+  (компиляция исходного файла "Cheats.cpp")
+  
+D:\f\AimStar-main\CS2_External\Render.hpp(469,19): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+  (компиляция исходного файла "Cheats.cpp")
+  
+D:\f\AimStar-main\CS2_External\Render.hpp(470,23): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+  (компиляция исходного файла "Cheats.cpp")
+  
+D:\f\AimStar-main\CS2_External\Features\ESP.h(162,83): warning C4305: аргумент: усечение из "double" в "float"
+  (компиляция исходного файла "Cheats.cpp")
+  
+D:\f\AimStar-main\CS2_External\Features\ESP.h(165,79): warning C4305: аргумент: усечение из "double" в "float"
+  (компиляция исходного файла "Cheats.cpp")
+  
+D:\f\AimStar-main\CS2_External\Features\ESP.h(212,58): warning C4305: аргумент: усечение из "double" в "float"
+  (компиляция исходного файла "Cheats.cpp")
+  
+  Defining YAML_CPP_API for DLL import
+D:\f\AimStar-main\CS2_External\Features\GUI.h(127,29): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+  (компиляция исходного файла "Cheats.cpp")
+  
+D:\f\AimStar-main\CS2_External\Features\GUI.h(127,22): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+  (компиляция исходного файла "Cheats.cpp")
+  
+D:\f\AimStar-main\CS2_External\Features\GUI.h(133,30): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+  (компиляция исходного файла "Cheats.cpp")
+  
+D:\f\AimStar-main\CS2_External\Features\GUI.h(133,22): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+  (компиляция исходного файла "Cheats.cpp")
+  
+D:\f\AimStar-main\CS2_External\Features\GUI.h(139,29): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+  (компиляция исходного файла "Cheats.cpp")
+  
+D:\f\AimStar-main\CS2_External\Features\GUI.h(139,22): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+  (компиляция исходного файла "Cheats.cpp")
+  
+D:\f\AimStar-main\CS2_External\Features\GUI.h(145,29): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+  (компиляция исходного файла "Cheats.cpp")
+  
+D:\f\AimStar-main\CS2_External\Features\GUI.h(145,22): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+  (компиляция исходного файла "Cheats.cpp")
+  
+D:\f\AimStar-main\CS2_External\Features\GUI.h(162,53): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+  (компиляция исходного файла "Cheats.cpp")
+  
+D:\f\AimStar-main\CS2_External\Features\GUI.h(162,44): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+  (компиляция исходного файла "Cheats.cpp")
+  
+D:\f\AimStar-main\CS2_External\Features\GUI.h(172,53): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+  (компиляция исходного файла "Cheats.cpp")
+  
+D:\f\AimStar-main\CS2_External\Features\GUI.h(172,44): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+  (компиляция исходного файла "Cheats.cpp")
+  
+D:\f\AimStar-main\CS2_External\Features\GUI.h(182,53): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+  (компиляция исходного файла "Cheats.cpp")
+  
+D:\f\AimStar-main\CS2_External\Features\GUI.h(182,44): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+  (компиляция исходного файла "Cheats.cpp")
+  
+D:\f\AimStar-main\CS2_External\Features\GUI.h(192,53): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+  (компиляция исходного файла "Cheats.cpp")
+  
+D:\f\AimStar-main\CS2_External\Features\GUI.h(192,44): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+  (компиляция исходного файла "Cheats.cpp")
+  
+D:\f\AimStar-main\CS2_External\Features\GUI.h(213,68): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+  (компиляция исходного файла "Cheats.cpp")
+  
+D:\f\AimStar-main\CS2_External\Features\GUI.h(218,66): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+  (компиляция исходного файла "Cheats.cpp")
+  
+D:\f\AimStar-main\CS2_External\Features\GUI.h(221,71): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+  (компиляция исходного файла "Cheats.cpp")
+  
+D:\f\AimStar-main\CS2_External\Features\GUI.h(225,72): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+  (компиляция исходного файла "Cheats.cpp")
+  
+D:\f\AimStar-main\CS2_External\Features\GUI.h(227,74): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+  (компиляция исходного файла "Cheats.cpp")
+  
+D:\f\AimStar-main\CS2_External\Features\GUI.h(228,70): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+  (компиляция исходного файла "Cheats.cpp")
+  
+D:\f\AimStar-main\CS2_External\Features\GUI.h(229,71): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+  (компиляция исходного файла "Cheats.cpp")
+  
+D:\f\AimStar-main\CS2_External\Features\GUI.h(230,71): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+  (компиляция исходного файла "Cheats.cpp")
+  
+D:\f\AimStar-main\CS2_External\Features\GUI.h(233,69): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+  (компиляция исходного файла "Cheats.cpp")
+  
+D:\f\AimStar-main\CS2_External\Features\GUI.h(234,72): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+  (компиляция исходного файла "Cheats.cpp")
+  
+D:\f\AimStar-main\CS2_External\Features\GUI.h(236,73): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+  (компиляция исходного файла "Cheats.cpp")
+  
+D:\f\AimStar-main\CS2_External\Features\GUI.h(237,75): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+  (компиляция исходного файла "Cheats.cpp")
+  
+D:\f\AimStar-main\CS2_External\Features\GUI.h(239,72): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+  (компиляция исходного файла "Cheats.cpp")
+  
+D:\f\AimStar-main\CS2_External\Features\GUI.h(240,69): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+  (компиляция исходного файла "Cheats.cpp")
+  
+D:\f\AimStar-main\CS2_External\Features\GUI.h(241,67): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+  (компиляция исходного файла "Cheats.cpp")
+  
+D:\f\AimStar-main\CS2_External\Features\GUI.h(242,71): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+  (компиляция исходного файла "Cheats.cpp")
+  
+D:\f\AimStar-main\CS2_External\Features\GUI.h(243,73): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+  (компиляция исходного файла "Cheats.cpp")
+  
+D:\f\AimStar-main\CS2_External\Features\GUI.h(244,72): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+  (компиляция исходного файла "Cheats.cpp")
+  
+D:\f\AimStar-main\CS2_External\Features\GUI.h(245,71): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+  (компиляция исходного файла "Cheats.cpp")
+  
+D:\f\AimStar-main\CS2_External\Features\GUI.h(271,69): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+  (компиляция исходного файла "Cheats.cpp")
+  
+D:\f\AimStar-main\CS2_External\Features\GUI.h(274,75): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+  (компиляция исходного файла "Cheats.cpp")
+  
+D:\f\AimStar-main\CS2_External\Features\GUI.h(278,74): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+  (компиляция исходного файла "Cheats.cpp")
+  
+D:\f\AimStar-main\CS2_External\Features\GUI.h(293,74): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+  (компиляция исходного файла "Cheats.cpp")
+  
+D:\f\AimStar-main\CS2_External\Features\GUI.h(296,72): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+  (компиляция исходного файла "Cheats.cpp")
+  
+D:\f\AimStar-main\CS2_External\Features\GUI.h(299,76): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+  (компиляция исходного файла "Cheats.cpp")
+  
+D:\f\AimStar-main\CS2_External\Features\GUI.h(300,78): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+  (компиляция исходного файла "Cheats.cpp")
+  
+D:\f\AimStar-main\CS2_External\Features\GUI.h(308,75): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+  (компиляция исходного файла "Cheats.cpp")
+  
+D:\f\AimStar-main\CS2_External\Features\GUI.h(309,75): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+  (компиляция исходного файла "Cheats.cpp")
+  
+D:\f\AimStar-main\CS2_External\Features\GUI.h(312,80): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+  (компиляция исходного файла "Cheats.cpp")
+  
+D:\f\AimStar-main\CS2_External\Features\GUI.h(313,78): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+  (компиляция исходного файла "Cheats.cpp")
+  
+D:\f\AimStar-main\CS2_External\Features\GUI.h(328,71): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+  (компиляция исходного файла "Cheats.cpp")
+  
+D:\f\AimStar-main\CS2_External\Features\GUI.h(339,72): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+  (компиляция исходного файла "Cheats.cpp")
+  
+D:\f\AimStar-main\CS2_External\Features\GUI.h(340,73): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+  (компиляция исходного файла "Cheats.cpp")
+  
+D:\f\AimStar-main\CS2_External\Features\GUI.h(341,73): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+  (компиляция исходного файла "Cheats.cpp")
+  
+D:\f\AimStar-main\CS2_External\Features\GUI.h(342,74): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+  (компиляция исходного файла "Cheats.cpp")
+  
+D:\f\AimStar-main\CS2_External\Features\GUI.h(343,75): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+  (компиляция исходного файла "Cheats.cpp")
+  
+D:\f\AimStar-main\CS2_External\Features\GUI.h(344,74): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+  (компиляция исходного файла "Cheats.cpp")
+  
+D:\f\AimStar-main\CS2_External\Features\GUI.h(374,56): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+  (компиляция исходного файла "Cheats.cpp")
+  
+D:\f\AimStar-main\CS2_External\Features\GUI.h(374,47): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+  (компиляция исходного файла "Cheats.cpp")
+  
+D:\f\AimStar-main\CS2_External\Features\GUI.h(393,67): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+  (компиляция исходного файла "Cheats.cpp")
+  
+D:\f\AimStar-main\CS2_External\Features\GUI.h(397,20): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+  (компиляция исходного файла "Cheats.cpp")
+  
+D:\f\AimStar-main\CS2_External\Features\GUI.h(398,20): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+  (компиляция исходного файла "Cheats.cpp")
+  
+D:\f\AimStar-main\CS2_External\Features\GUI.h(443,71): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+  (компиляция исходного файла "Cheats.cpp")
+  
+D:\f\AimStar-main\CS2_External\Features\GUI.h(456,72): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+  (компиляция исходного файла "Cheats.cpp")
+  
+D:\f\AimStar-main\CS2_External\Features\GUI.h(457,75): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+  (компиляция исходного файла "Cheats.cpp")
+  
+D:\f\AimStar-main\CS2_External\Features\GUI.h(478,67): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+  (компиляция исходного файла "Cheats.cpp")
+  
+D:\f\AimStar-main\CS2_External\Features\GUI.h(479,71): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+  (компиляция исходного файла "Cheats.cpp")
+  
+D:\f\AimStar-main\CS2_External\Features\GUI.h(480,72): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+  (компиляция исходного файла "Cheats.cpp")
+  
+D:\f\AimStar-main\CS2_External\Features\GUI.h(482,75): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+  (компиляция исходного файла "Cheats.cpp")
+  
+D:\f\AimStar-main\CS2_External\Features\GUI.h(483,71): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+  (компиляция исходного файла "Cheats.cpp")
+  
+D:\f\AimStar-main\CS2_External\Features\GUI.h(485,74): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+  (компиляция исходного файла "Cheats.cpp")
+  
+D:\f\AimStar-main\CS2_External\Features\GUI.h(486,75): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+  (компиляция исходного файла "Cheats.cpp")
+  
+D:\f\AimStar-main\CS2_External\Features\GUI.h(487,71): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+  (компиляция исходного файла "Cheats.cpp")
+  
+D:\f\AimStar-main\CS2_External\Features\GUI.h(488,75): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+  (компиляция исходного файла "Cheats.cpp")
+  
+D:\f\AimStar-main\CS2_External\Features\GUI.h(490,77): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+  (компиляция исходного файла "Cheats.cpp")
+  
+D:\f\AimStar-main\CS2_External\Features\GUI.h(493,71): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+  (компиляция исходного файла "Cheats.cpp")
+  
+D:\f\AimStar-main\CS2_External\Features\GUI.h(494,74): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+  (компиляция исходного файла "Cheats.cpp")
+  
+D:\f\AimStar-main\CS2_External\Features\GUI.h(496,72): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+  (компиляция исходного файла "Cheats.cpp")
+  
+D:\f\AimStar-main\CS2_External\Features\GUI.h(498,72): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+  (компиляция исходного файла "Cheats.cpp")
+  
+D:\f\AimStar-main\CS2_External\Features\GUI.h(499,72): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+  (компиляция исходного файла "Cheats.cpp")
+  
+D:\f\AimStar-main\CS2_External\Features\GUI.h(503,71): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+  (компиляция исходного файла "Cheats.cpp")
+  
+D:\f\AimStar-main\CS2_External\Features\GUI.h(511,57): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+  (компиляция исходного файла "Cheats.cpp")
+  
+D:\f\AimStar-main\CS2_External\Features\GUI.h(518,72): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+  (компиляция исходного файла "Cheats.cpp")
+  
+D:\f\AimStar-main\CS2_External\Features\GUI.h(592,77): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+  (компиляция исходного файла "Cheats.cpp")
+  
+D:\f\AimStar-main\CS2_External\Features\GUI.h(593,76): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+  (компиляция исходного файла "Cheats.cpp")
+  
+D:\f\AimStar-main\CS2_External\Features\GUI.h(607,58): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+  (компиляция исходного файла "Cheats.cpp")
+  
+D:\f\AimStar-main\CS2_External\Features\GUI.h(152,8): warning C4101: TempText: неиспользованная локальная переменная
+  (компиляция исходного файла "Cheats.cpp")
+  
+D:\f\AimStar-main\CS2_External\Cheats.cpp(238,59): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\f\AimStar-main\CS2_External\Cheats.cpp(238,28): warning C4244: аргумент: преобразование "DWORD64" в "DWORD", возможна потеря данных
+D:\f\AimStar-main\CS2_External\Cheats.cpp(247,73): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\f\AimStar-main\CS2_External\Cheats.cpp(247,52): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\f\AimStar-main\CS2_External\Cheats.cpp(247,26): warning C4244: аргумент: преобразование "DWORD64" в "DWORD", возможна потеря данных
+D:\f\AimStar-main\CS2_External\Cheats.cpp(262,58): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\f\AimStar-main\CS2_External\Cheats.cpp(262,27): warning C4244: аргумент: преобразование "DWORD64" в "DWORD", возможна потеря данных
+  Entity.cpp
+D:\f\AimStar-main\CS2_External\Utils\ProcessManager.hpp(8,1): warning C4005: _is_invalid: изменение макроопределения
+  (компиляция исходного файла "Entity.cpp")
+  D:\f\AimStar-main\CS2_External\Utils\ProcessManager.hpp(7,1):
+  см. предыдущее определение "_is_invalid"
+  
+D:\f\AimStar-main\CS2_External\Utils\ProcessManager.hpp(129,40): warning C4244: *=: преобразование "double" в "DWORD", возможна потеря данных
+  (компиляция исходного файла "Entity.cpp")
+  
+D:\f\AimStar-main\CS2_External\Utils\ProcessManager.hpp(150,21): warning C4018: <: несоответствие типов со знаком и без знака
+  (компиляция исходного файла "Entity.cpp")
+  
+D:\f\AimStar-main\CS2_External\Utils\ProcessManager.hpp(161,32): warning C4312: приведение типов: преобразование из "ULONG" в "DWORD *" большего размера
+  (компиляция исходного файла "Entity.cpp")
+  
+  Glow.cpp
+D:\f\AimStar-main\CS2_External\Utils\ProcessManager.hpp(8,1): warning C4005: _is_invalid: изменение макроопределения
+  (компиляция исходного файла "Features/Glow.cpp")
+  D:\f\AimStar-main\CS2_External\Utils\ProcessManager.hpp(7,1):
+  см. предыдущее определение "_is_invalid"
+  
+D:\f\AimStar-main\CS2_External\Utils\ProcessManager.hpp(129,40): warning C4244: *=: преобразование "double" в "DWORD", возможна потеря данных
+  (компиляция исходного файла "Features/Glow.cpp")
+  
+D:\f\AimStar-main\CS2_External\Utils\ProcessManager.hpp(150,21): warning C4018: <: несоответствие типов со знаком и без знака
+  (компиляция исходного файла "Features/Glow.cpp")
+  
+D:\f\AimStar-main\CS2_External\Utils\ProcessManager.hpp(161,32): warning C4312: приведение типов: преобразование из "ULONG" в "DWORD *" большего размера
+  (компиляция исходного файла "Features/Glow.cpp")
+  
+D:\f\AimStar-main\CS2_External\MenuConfig.hpp(153,23): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+  (компиляция исходного файла "Features/Glow.cpp")
+  
+  Misc.cpp
+D:\f\AimStar-main\CS2_External\Utils\ProcessManager.hpp(8,1): warning C4005: _is_invalid: изменение макроопределения
+  (компиляция исходного файла "Features/Misc.cpp")
+  D:\f\AimStar-main\CS2_External\Utils\ProcessManager.hpp(7,1):
+  см. предыдущее определение "_is_invalid"
+  
+D:\f\AimStar-main\CS2_External\Utils\ProcessManager.hpp(129,40): warning C4244: *=: преобразование "double" в "DWORD", возможна потеря данных
+  (компиляция исходного файла "Features/Misc.cpp")
+  
+D:\f\AimStar-main\CS2_External\Utils\ProcessManager.hpp(150,21): warning C4018: <: несоответствие типов со знаком и без знака
+  (компиляция исходного файла "Features/Misc.cpp")
+  
+D:\f\AimStar-main\CS2_External\Utils\ProcessManager.hpp(161,32): warning C4312: приведение типов: преобразование из "ULONG" в "DWORD *" большего размера
+  (компиляция исходного файла "Features/Misc.cpp")
+  
+D:\f\AimStar-main\CS2_External\MenuConfig.hpp(153,23): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+  (компиляция исходного файла "Features/Misc.cpp")
+  
+D:\f\AimStar-main\CS2_External\Features\RCS.h(17,21): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+  (компиляция исходного файла "Features/Misc.cpp")
+  
+D:\f\AimStar-main\CS2_External\Features\RCS.h(18,21): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+  (компиляция исходного файла "Features/Misc.cpp")
+  
+D:\f\AimStar-main\CS2_External\Features\RCS.h(22,14): warning C4101: clientState: неиспользованная локальная переменная
+  (компиляция исходного файла "Features/Misc.cpp")
+  
+D:\f\AimStar-main\CS2_External\Features\RCS.h(74,35): warning C4018: >: несоответствие типов со знаком и без знака
+  (компиляция исходного файла "Features/Misc.cpp")
+  
+D:\f\AimStar-main\CS2_External\AimBot.hpp(49,35): warning C4018: <: несоответствие типов со знаком и без знака
+  (компиляция исходного файла "Features/Misc.cpp")
+  
+D:\f\AimStar-main\CS2_External\AimBot.hpp(69,27): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+  (компиляция исходного файла "Features/Misc.cpp")
+  
+D:\f\AimStar-main\CS2_External\AimBot.hpp(70,27): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+  (компиляция исходного файла "Features/Misc.cpp")
+  
+D:\f\AimStar-main\CS2_External\AimBot.hpp(76,24): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+  (компиляция исходного файла "Features/Misc.cpp")
+  
+D:\f\AimStar-main\CS2_External\AimBot.hpp(83,23): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+  (компиляция исходного файла "Features/Misc.cpp")
+  
+D:\f\AimStar-main\CS2_External\AimBot.hpp(90,55): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+  (компиляция исходного файла "Features/Misc.cpp")
+  
+D:\f\AimStar-main\CS2_External\AimBot.hpp(102,57): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+  (компиляция исходного файла "Features/Misc.cpp")
+  
+D:\f\AimStar-main\CS2_External\AimBot.hpp(103,59): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+  (компиляция исходного файла "Features/Misc.cpp")
+  
+D:\f\AimStar-main\CS2_External\AimBot.hpp(104,20): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+  (компиляция исходного файла "Features/Misc.cpp")
+  
+D:\f\AimStar-main\CS2_External\AimBot.hpp(164,52): warning C4244: аргумент: преобразование "float" в "DWORD", возможна потеря данных
+  (компиляция исходного файла "Features/Misc.cpp")
+  
+D:\f\AimStar-main\CS2_External\AimBot.hpp(164,43): warning C4244: аргумент: преобразование "float" в "DWORD", возможна потеря данных
+  (компиляция исходного файла "Features/Misc.cpp")
+  
+D:\f\AimStar-main\CS2_External\AimBot.hpp(183,24): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+  (компиляция исходного файла "Features/Misc.cpp")
+  
+D:\f\AimStar-main\CS2_External\AimBot.hpp(185,57): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+  (компиляция исходного файла "Features/Misc.cpp")
+  
+D:\f\AimStar-main\CS2_External\AimBot.hpp(186,59): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+  (компиляция исходного файла "Features/Misc.cpp")
+  
+D:\f\AimStar-main\CS2_External\AimBot.hpp(187,20): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+  (компиляция исходного файла "Features/Misc.cpp")
+  
+D:\f\AimStar-main\CS2_External\AimBot.hpp(195,35): warning C4018: >: несоответствие типов со знаком и без знака
+  (компиляция исходного файла "Features/Misc.cpp")
+  
+D:\f\AimStar-main\CS2_External\Features\Misc.h(51,13): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  (компиляция исходного файла "Features/Misc.cpp")
+  
+D:\f\AimStar-main\CS2_External\Features\Misc.cpp(288,9): warning C4101: Tick: неиспользованная локальная переменная
+  Mouse.cpp
+  SkinChanger.cpp
+D:\f\AimStar-main\CS2_External\Utils\ProcessManager.hpp(8,1): warning C4005: _is_invalid: изменение макроопределения
+  (компиляция исходного файла "Features/SkinChanger/SkinChanger.cpp")
+  D:\f\AimStar-main\CS2_External\Utils\ProcessManager.hpp(7,1):
+  см. предыдущее определение "_is_invalid"
+  
+D:\f\AimStar-main\CS2_External\Utils\ProcessManager.hpp(129,40): warning C4244: *=: преобразование "double" в "DWORD", возможна потеря данных
+  (компиляция исходного файла "Features/SkinChanger/SkinChanger.cpp")
+  
+D:\f\AimStar-main\CS2_External\Utils\ProcessManager.hpp(150,21): warning C4018: <: несоответствие типов со знаком и без знака
+  (компиляция исходного файла "Features/SkinChanger/SkinChanger.cpp")
+  
+D:\f\AimStar-main\CS2_External\Utils\ProcessManager.hpp(161,32): warning C4312: приведение типов: преобразование из "ULONG" в "DWORD *" большего размера
+  (компиляция исходного файла "Features/SkinChanger/SkinChanger.cpp")
+  
+D:\f\AimStar-main\CS2_External\MenuConfig.hpp(153,23): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+  (компиляция исходного файла "Features/SkinChanger/SkinChanger.cpp")
+  
+D:\f\AimStar-main\CS2_External\Features\SkinChanger\SkinChanger.cpp(46,53): warning C4244: аргумент: преобразование "DWORD64" в "int", возможна потеря данных
+D:\f\AimStar-main\CS2_External\Features\SkinChanger\SkinChanger.cpp(61,56): warning C4244: аргумент: преобразование "DWORD64" в "int", возможна потеря данных
+  StyleChanger.cpp
+  Game.cpp
+D:\f\AimStar-main\CS2_External\Utils\ProcessManager.hpp(8,1): warning C4005: _is_invalid: изменение макроопределения
+  (компиляция исходного файла "Game.cpp")
+  D:\f\AimStar-main\CS2_External\Utils\ProcessManager.hpp(7,1):
+  см. предыдущее определение "_is_invalid"
+  
+D:\f\AimStar-main\CS2_External\Utils\ProcessManager.hpp(129,40): warning C4244: *=: преобразование "double" в "DWORD", возможна потеря данных
+  (компиляция исходного файла "Game.cpp")
+  
+D:\f\AimStar-main\CS2_External\Utils\ProcessManager.hpp(150,21): warning C4018: <: несоответствие типов со знаком и без знака
+  (компиляция исходного файла "Game.cpp")
+  
+D:\f\AimStar-main\CS2_External\Utils\ProcessManager.hpp(161,32): warning C4312: приведение типов: преобразование из "ULONG" в "DWORD *" большего размера
+  (компиляция исходного файла "Game.cpp")
+  
+  main.cpp
+D:\f\AimStar-main\CS2_External\Utils\ProcessManager.hpp(8,1): warning C4005: _is_invalid: изменение макроопределения
+  (компиляция исходного файла "main.cpp")
+  D:\f\AimStar-main\CS2_External\Utils\ProcessManager.hpp(7,1):
+  см. предыдущее определение "_is_invalid"
+  
+D:\f\AimStar-main\CS2_External\Utils\ProcessManager.hpp(129,40): warning C4244: *=: преобразование "double" в "DWORD", возможна потеря данных
+  (компиляция исходного файла "main.cpp")
+  
+D:\f\AimStar-main\CS2_External\Utils\ProcessManager.hpp(150,21): warning C4018: <: несоответствие типов со знаком и без знака
+  (компиляция исходного файла "main.cpp")
+  
+D:\f\AimStar-main\CS2_External\Utils\ProcessManager.hpp(161,32): warning C4312: приведение типов: преобразование из "ULONG" в "DWORD *" большего размера
+  (компиляция исходного файла "main.cpp")
+  
+D:\f\AimStar-main\CS2_External\MenuConfig.hpp(153,23): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+  (компиляция исходного файла "main.cpp")
+  
+D:\f\AimStar-main\CS2_External\Features\RCS.h(17,21): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+  (компиляция исходного файла "main.cpp")
+  
+D:\f\AimStar-main\CS2_External\Features\RCS.h(18,21): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+  (компиляция исходного файла "main.cpp")
+  
+D:\f\AimStar-main\CS2_External\Features\RCS.h(22,14): warning C4101: clientState: неиспользованная локальная переменная
+  (компиляция исходного файла "main.cpp")
+  
+D:\f\AimStar-main\CS2_External\Features\RCS.h(74,35): warning C4018: >: несоответствие типов со знаком и без знака
+  (компиляция исходного файла "main.cpp")
+  
+D:\f\AimStar-main\CS2_External\AimBot.hpp(49,35): warning C4018: <: несоответствие типов со знаком и без знака
+  (компиляция исходного файла "main.cpp")
+  
+D:\f\AimStar-main\CS2_External\AimBot.hpp(69,27): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+  (компиляция исходного файла "main.cpp")
+  
+D:\f\AimStar-main\CS2_External\AimBot.hpp(70,27): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+  (компиляция исходного файла "main.cpp")
+  
+D:\f\AimStar-main\CS2_External\AimBot.hpp(76,24): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+  (компиляция исходного файла "main.cpp")
+  
+D:\f\AimStar-main\CS2_External\AimBot.hpp(83,23): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+  (компиляция исходного файла "main.cpp")
+  
+D:\f\AimStar-main\CS2_External\AimBot.hpp(90,55): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+  (компиляция исходного файла "main.cpp")
+  
+D:\f\AimStar-main\CS2_External\AimBot.hpp(102,57): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+  (компиляция исходного файла "main.cpp")
+  
+D:\f\AimStar-main\CS2_External\AimBot.hpp(103,59): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+  (компиляция исходного файла "main.cpp")
+  
+D:\f\AimStar-main\CS2_External\AimBot.hpp(104,20): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+  (компиляция исходного файла "main.cpp")
+  
+D:\f\AimStar-main\CS2_External\AimBot.hpp(164,52): warning C4244: аргумент: преобразование "float" в "DWORD", возможна потеря данных
+  (компиляция исходного файла "main.cpp")
+  
+D:\f\AimStar-main\CS2_External\AimBot.hpp(164,43): warning C4244: аргумент: преобразование "float" в "DWORD", возможна потеря данных
+  (компиляция исходного файла "main.cpp")
+  
+D:\f\AimStar-main\CS2_External\AimBot.hpp(183,24): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+  (компиляция исходного файла "main.cpp")
+  
+D:\f\AimStar-main\CS2_External\AimBot.hpp(185,57): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+  (компиляция исходного файла "main.cpp")
+  
+D:\f\AimStar-main\CS2_External\AimBot.hpp(186,59): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+  (компиляция исходного файла "main.cpp")
+  
+D:\f\AimStar-main\CS2_External\AimBot.hpp(187,20): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+  (компиляция исходного файла "main.cpp")
+  
+D:\f\AimStar-main\CS2_External\AimBot.hpp(195,35): warning C4018: >: несоответствие типов со знаком и без знака
+  (компиляция исходного файла "main.cpp")
+  
+D:\f\AimStar-main\CS2_External\Features\Misc.h(51,13): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  (компиляция исходного файла "main.cpp")
+  
+D:\f\AimStar-main\CS2_External\main.cpp(160,28): warning C4566: символ, представленный универсальным именем символа "\u53CD", невозможно представить в текущей кодовой странице (1252)
+D:\f\AimStar-main\CS2_External\main.cpp(160,28): warning C4566: символ, представленный универсальным именем символа "\u6050", невозможно представить в текущей кодовой странице (1252)
+D:\f\AimStar-main\CS2_External\main.cpp(160,28): warning C4566: символ, представленный универсальным именем символа "\u7CBE", невозможно представить в текущей кодовой странице (1252)
+D:\f\AimStar-main\CS2_External\main.cpp(160,28): warning C4566: символ, представленный универсальным именем символа "\u82F1", невозможно представить в текущей кодовой странице (1252)
+D:\f\AimStar-main\CS2_External\main.cpp(160,28): warning C4566: символ, представленный универсальным именем символа "\uFF1A", невозможно представить в текущей кодовой странице (1252)
+D:\f\AimStar-main\CS2_External\main.cpp(160,28): warning C4566: символ, представленный универсальным именем символа "\u5168", невозможно представить в текущей кодовой странице (1252)
+D:\f\AimStar-main\CS2_External\main.cpp(160,28): warning C4566: символ, представленный универсальным именем символа "\u7403", невозможно представить в текущей кодовой странице (1252)
+D:\f\AimStar-main\CS2_External\main.cpp(160,28): warning C4566: символ, представленный универсальным именем символа "\u653B", невозможно представить в текущей кодовой странице (1252)
+D:\f\AimStar-main\CS2_External\main.cpp(160,28): warning C4566: символ, представленный универсальным именем символа "\u52BF", невозможно представить в текущей кодовой странице (1252)
+D:\f\AimStar-main\CS2_External\main.cpp(155,31): warning C4101: e: неиспользованная локальная переменная
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\xutility(4537,18): warning C4244: =: преобразование "wchar_t" в "char", возможна потеря данных
+  (компиляция исходного файла "main.cpp")
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\xutility(4537,18):
+  контекст создания экземпляра шаблона (сначала самый старый)
+  	D:\f\AimStar-main\CS2_External\main.cpp(242,16):
+  	выполняется компиляция ссылки на экземпляр шаблон функции "std::basic_string<char,std::char_traits<char>,std::allocator<char>>::basic_string<std::_String_iterator<std::_String_val<std::_Simple_types<_Elem>>>,0>(_Iter,_Iter,const _Alloc &)"
+          with
+          [
+              _Elem=wchar_t,
+              _Iter=std::_String_iterator<std::_String_val<std::_Simple_types<wchar_t>>>,
+              _Alloc=std::allocator<char>
+          ]
+  		D:\f\AimStar-main\CS2_External\main.cpp(242,16):
+  		см. первую ссылку на std::basic_string<char,std::char_traits<char>,std::allocator<char>>::basic_string "WndProc"
+  	C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\xstring(2600,17):
+  	выполняется компиляция ссылки на экземпляр шаблон функции "void std::basic_string<char,std::char_traits<char>,std::allocator<char>>::_Construct_from_iter<wchar_t*,wchar_t*,_Size_type>(_Iter,const _Sent,_Size)"
+          with
+          [
+              _Size_type=unsigned __int64,
+              _Iter=wchar_t *,
+              _Sent=wchar_t *,
+              _Size=unsigned __int64
+          ]
+  	C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\xstring(2756,18):
+  	выполняется компиляция ссылки на экземпляр шаблон функции "_OutIt *std::_Copy_n_unchecked4<wchar_t*,_Size,char*>(_InIt,_SizeTy,_OutIt)"
+          with
+          [
+              _OutIt=char *,
+              _Size=unsigned __int64,
+              _InIt=wchar_t *,
+              _SizeTy=unsigned __int64
+          ]
+  
+  Offsets.cpp
+D:\f\AimStar-main\CS2_External\Utils\ProcessManager.hpp(8,1): warning C4005: _is_invalid: изменение макроопределения
+  (компиляция исходного файла "Offsets.cpp")
+  D:\f\AimStar-main\CS2_External\Utils\ProcessManager.hpp(7,1):
+  см. предыдущее определение "_is_invalid"
+  
+D:\f\AimStar-main\CS2_External\Utils\ProcessManager.hpp(129,40): warning C4244: *=: преобразование "double" в "DWORD", возможна потеря данных
+  (компиляция исходного файла "Offsets.cpp")
+  
+D:\f\AimStar-main\CS2_External\Utils\ProcessManager.hpp(150,21): warning C4018: <: несоответствие типов со знаком и без знака
+  (компиляция исходного файла "Offsets.cpp")
+  
+D:\f\AimStar-main\CS2_External\Utils\ProcessManager.hpp(161,32): warning C4312: приведение типов: преобразование из "ULONG" в "DWORD *" большего размера
+  (компиляция исходного файла "Offsets.cpp")
+  
+D:\f\AimStar-main\CS2_External\Offsets.cpp(41,35): warning C4244: =: преобразование "DWORD64" в "DWORD", возможна потеря данных
+D:\f\AimStar-main\CS2_External\Offsets.cpp(47,46): warning C4244: =: преобразование "DWORD64" в "DWORD", возможна потеря данных
+D:\f\AimStar-main\CS2_External\Offsets.cpp(53,31): warning C4244: =: преобразование "DWORD64" в "DWORD", возможна потеря данных
+D:\f\AimStar-main\CS2_External\Offsets.cpp(59,35): warning C4244: =: преобразование "DWORD64" в "DWORD", возможна потеря данных
+D:\f\AimStar-main\CS2_External\Offsets.cpp(67,43): warning C4244: =: преобразование "DWORD64" в "DWORD", возможна потеря данных
+D:\f\AimStar-main\CS2_External\Offsets.cpp(73,48): warning C4244: =: преобразование "DWORD64" в "DWORD", возможна потеря данных
+D:\f\AimStar-main\CS2_External\Offsets.cpp(79,41): warning C4244: =: преобразование "DWORD64" в "DWORD", возможна потеря данных
+D:\f\AimStar-main\CS2_External\Offsets.cpp(111,34): warning C4244: =: преобразование "DWORD64" в "DWORD", возможна потеря данных
+D:\f\AimStar-main\CS2_External\Offsets.cpp(117,36): warning C4244: =: преобразование "DWORD64" в "DWORD", возможна потеря данных
+D:\f\AimStar-main\CS2_External\Offsets.cpp(123,36): warning C4244: =: преобразование "DWORD64" в "DWORD", возможна потеря данных
+D:\f\AimStar-main\CS2_External\Offsets.cpp(126,20): warning C4244: =: преобразование "DWORD64" в "DWORD", возможна потеря данных
+  imgui.cpp
+  imgui_demo.cpp
+  imgui_draw.cpp
+  imgui_impl_dx11.cpp
+  imgui_impl_win32.cpp
+  imgui_tables.cpp
+  imgui_widgets.cpp
+  OS-ImGui.cpp
+D:\f\AimStar-main\CS2_External\OS-ImGui\OS-ImGui.cpp(108,36): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\f\AimStar-main\CS2_External\OS-ImGui\OS-ImGui.cpp(108,29): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+  OS-ImGui_Base.cpp
+  Создание кода...
+D:\f\AimStar-main\CS2_External\Features\BombTimer.h(40,1): warning C4715: bmb::getBombSite: значение возвращается не при всех путях выполнения
+  Компиляция...
+  OS-ImGui_External.cpp
+D:\f\AimStar-main\CS2_External\Utils\ProcessManager.hpp(8,1): warning C4005: _is_invalid: изменение макроопределения
+  (компиляция исходного файла "OS-ImGui/OS-ImGui_External.cpp")
+  D:\f\AimStar-main\CS2_External\Utils\ProcessManager.hpp(7,1):
+  см. предыдущее определение "_is_invalid"
+  
+D:\f\AimStar-main\CS2_External\Utils\ProcessManager.hpp(129,40): warning C4244: *=: преобразование "double" в "DWORD", возможна потеря данных
+  (компиляция исходного файла "OS-ImGui/OS-ImGui_External.cpp")
+  
+D:\f\AimStar-main\CS2_External\Utils\ProcessManager.hpp(150,21): warning C4018: <: несоответствие типов со знаком и без знака
+  (компиляция исходного файла "OS-ImGui/OS-ImGui_External.cpp")
+  
+D:\f\AimStar-main\CS2_External\Utils\ProcessManager.hpp(161,32): warning C4312: приведение типов: преобразование из "ULONG" в "DWORD *" большего размера
+  (компиляция исходного файла "OS-ImGui/OS-ImGui_External.cpp")
+  
+D:\f\AimStar-main\CS2_External\MenuConfig.hpp(153,23): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+  (компиляция исходного файла "OS-ImGui/OS-ImGui_External.cpp")
+  
+  Radar.cpp
+D:\f\AimStar-main\CS2_External\Utils\ProcessManager.hpp(8,1): warning C4005: _is_invalid: изменение макроопределения
+  (компиляция исходного файла "Radar/Radar.cpp")
+  D:\f\AimStar-main\CS2_External\Utils\ProcessManager.hpp(7,1):
+  см. предыдущее определение "_is_invalid"
+  
+D:\f\AimStar-main\CS2_External\Utils\ProcessManager.hpp(129,40): warning C4244: *=: преобразование "double" в "DWORD", возможна потеря данных
+  (компиляция исходного файла "Radar/Radar.cpp")
+  
+D:\f\AimStar-main\CS2_External\Utils\ProcessManager.hpp(150,21): warning C4018: <: несоответствие типов со знаком и без знака
+  (компиляция исходного файла "Radar/Radar.cpp")
+  
+D:\f\AimStar-main\CS2_External\Utils\ProcessManager.hpp(161,32): warning C4312: приведение типов: преобразование из "ULONG" в "DWORD *" большего размера
+  (компиляция исходного файла "Radar/Radar.cpp")
+  
+D:\f\AimStar-main\CS2_External\Radar\Radar.cpp(8,89): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+D:\f\AimStar-main\CS2_External\Radar\Radar.cpp(9,89): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+D:\f\AimStar-main\CS2_External\Radar\Radar.cpp(62,17): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+D:\f\AimStar-main\CS2_External\Radar\Radar.cpp(64,62): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+D:\f\AimStar-main\CS2_External\Radar\Radar.cpp(65,42): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+D:\f\AimStar-main\CS2_External\Radar\Radar.cpp(147,28): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+D:\f\AimStar-main\CS2_External\Radar\Radar.cpp(148,28): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+D:\f\AimStar-main\CS2_External\Radar\Radar.cpp(167,6): warning C4305: аргумент: усечение из "double" в "float"
+D:\f\AimStar-main\CS2_External\Radar\Radar.cpp(176,63): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+D:\f\AimStar-main\CS2_External\Radar\Radar.cpp(177,105): warning C4305: аргумент: усечение из "double" в "float"
+D:\f\AimStar-main\CS2_External\Radar\Radar.cpp(177,57): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+D:\f\AimStar-main\CS2_External\Radar\Radar.cpp(179,34): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+D:\f\AimStar-main\CS2_External\Radar\Radar.cpp(180,34): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+D:\f\AimStar-main\CS2_External\Radar\Radar.cpp(182,36): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+D:\f\AimStar-main\CS2_External\Radar\Radar.cpp(183,36): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+D:\f\AimStar-main\CS2_External\Radar\Radar.cpp(185,36): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+D:\f\AimStar-main\CS2_External\Radar\Radar.cpp(186,36): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+  Language.cpp
+  TriggerBot.cpp
+D:\f\AimStar-main\CS2_External\Utils\ProcessManager.hpp(8,1): warning C4005: _is_invalid: изменение макроопределения
+  (компиляция исходного файла "TriggerBot.cpp")
+  D:\f\AimStar-main\CS2_External\Utils\ProcessManager.hpp(7,1):
+  см. предыдущее определение "_is_invalid"
+  
+D:\f\AimStar-main\CS2_External\Utils\ProcessManager.hpp(129,40): warning C4244: *=: преобразование "double" в "DWORD", возможна потеря данных
+  (компиляция исходного файла "TriggerBot.cpp")
+  
+D:\f\AimStar-main\CS2_External\Utils\ProcessManager.hpp(150,21): warning C4018: <: несоответствие типов со знаком и без знака
+  (компиляция исходного файла "TriggerBot.cpp")
+  
+D:\f\AimStar-main\CS2_External\Utils\ProcessManager.hpp(161,32): warning C4312: приведение типов: преобразование из "ULONG" в "DWORD *" большего размера
+  (компиляция исходного файла "TriggerBot.cpp")
+  
+D:\f\AimStar-main\CS2_External\MenuConfig.hpp(153,23): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+  (компиляция исходного файла "TriggerBot.cpp")
+  
+  ConfigMenu.cpp
+D:\f\AimStar-main\CS2_External\Utils\ProcessManager.hpp(8,1): warning C4005: _is_invalid: изменение макроопределения
+  (компиляция исходного файла "Utils/ConfigMenu.cpp")
+  D:\f\AimStar-main\CS2_External\Utils\ProcessManager.hpp(7,1):
+  см. предыдущее определение "_is_invalid"
+  
+D:\f\AimStar-main\CS2_External\Utils\ProcessManager.hpp(129,40): warning C4244: *=: преобразование "double" в "DWORD", возможна потеря данных
+  (компиляция исходного файла "Utils/ConfigMenu.cpp")
+  
+D:\f\AimStar-main\CS2_External\Utils\ProcessManager.hpp(150,21): warning C4018: <: несоответствие типов со знаком и без знака
+  (компиляция исходного файла "Utils/ConfigMenu.cpp")
+  
+D:\f\AimStar-main\CS2_External\Utils\ProcessManager.hpp(161,32): warning C4312: приведение типов: преобразование из "ULONG" в "DWORD *" большего размера
+  (компиляция исходного файла "Utils/ConfigMenu.cpp")
+  
+D:\f\AimStar-main\CS2_External\MenuConfig.hpp(153,23): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+  (компиляция исходного файла "Utils/ConfigMenu.cpp")
+  
+  Defining YAML_CPP_API for DLL import
+D:\f\AimStar-main\CS2_External\Features\RCS.h(17,21): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+  (компиляция исходного файла "Utils/ConfigMenu.cpp")
+  
+D:\f\AimStar-main\CS2_External\Features\RCS.h(18,21): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+  (компиляция исходного файла "Utils/ConfigMenu.cpp")
+  
+D:\f\AimStar-main\CS2_External\Features\RCS.h(22,14): warning C4101: clientState: неиспользованная локальная переменная
+  (компиляция исходного файла "Utils/ConfigMenu.cpp")
+  
+D:\f\AimStar-main\CS2_External\Features\RCS.h(74,35): warning C4018: >: несоответствие типов со знаком и без знака
+  (компиляция исходного файла "Utils/ConfigMenu.cpp")
+  
+D:\f\AimStar-main\CS2_External\AimBot.hpp(49,35): warning C4018: <: несоответствие типов со знаком и без знака
+  (компиляция исходного файла "Utils/ConfigMenu.cpp")
+  
+D:\f\AimStar-main\CS2_External\AimBot.hpp(69,27): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+  (компиляция исходного файла "Utils/ConfigMenu.cpp")
+  
+D:\f\AimStar-main\CS2_External\AimBot.hpp(70,27): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+  (компиляция исходного файла "Utils/ConfigMenu.cpp")
+  
+D:\f\AimStar-main\CS2_External\AimBot.hpp(76,24): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+  (компиляция исходного файла "Utils/ConfigMenu.cpp")
+  
+D:\f\AimStar-main\CS2_External\AimBot.hpp(83,23): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+  (компиляция исходного файла "Utils/ConfigMenu.cpp")
+  
+D:\f\AimStar-main\CS2_External\AimBot.hpp(90,55): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+  (компиляция исходного файла "Utils/ConfigMenu.cpp")
+  
+D:\f\AimStar-main\CS2_External\AimBot.hpp(102,57): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+  (компиляция исходного файла "Utils/ConfigMenu.cpp")
+  
+D:\f\AimStar-main\CS2_External\AimBot.hpp(103,59): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+  (компиляция исходного файла "Utils/ConfigMenu.cpp")
+  
+D:\f\AimStar-main\CS2_External\AimBot.hpp(104,20): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+  (компиляция исходного файла "Utils/ConfigMenu.cpp")
+  
+D:\f\AimStar-main\CS2_External\AimBot.hpp(164,52): warning C4244: аргумент: преобразование "float" в "DWORD", возможна потеря данных
+  (компиляция исходного файла "Utils/ConfigMenu.cpp")
+  
+D:\f\AimStar-main\CS2_External\AimBot.hpp(164,43): warning C4244: аргумент: преобразование "float" в "DWORD", возможна потеря данных
+  (компиляция исходного файла "Utils/ConfigMenu.cpp")
+  
+D:\f\AimStar-main\CS2_External\AimBot.hpp(183,24): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+  (компиляция исходного файла "Utils/ConfigMenu.cpp")
+  
+D:\f\AimStar-main\CS2_External\AimBot.hpp(185,57): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+  (компиляция исходного файла "Utils/ConfigMenu.cpp")
+  
+D:\f\AimStar-main\CS2_External\AimBot.hpp(186,59): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+  (компиляция исходного файла "Utils/ConfigMenu.cpp")
+  
+D:\f\AimStar-main\CS2_External\AimBot.hpp(187,20): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+  (компиляция исходного файла "Utils/ConfigMenu.cpp")
+  
+D:\f\AimStar-main\CS2_External\AimBot.hpp(195,35): warning C4018: >: несоответствие типов со знаком и без знака
+  (компиляция исходного файла "Utils/ConfigMenu.cpp")
+  
+D:\f\AimStar-main\CS2_External\Utils\ConfigMenu.cpp(47,96): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+  ConfigSaver.cpp
+  Defining YAML_CPP_API for DLL import
+D:\f\AimStar-main\CS2_External\Utils\ProcessManager.hpp(8,1): warning C4005: _is_invalid: изменение макроопределения
+  (компиляция исходного файла "Utils/ConfigSaver.cpp")
+  D:\f\AimStar-main\CS2_External\Utils\ProcessManager.hpp(7,1):
+  см. предыдущее определение "_is_invalid"
+  
+D:\f\AimStar-main\CS2_External\Utils\ProcessManager.hpp(129,40): warning C4244: *=: преобразование "double" в "DWORD", возможна потеря данных
+  (компиляция исходного файла "Utils/ConfigSaver.cpp")
+  
+D:\f\AimStar-main\CS2_External\Utils\ProcessManager.hpp(150,21): warning C4018: <: несоответствие типов со знаком и без знака
+  (компиляция исходного файла "Utils/ConfigSaver.cpp")
+  
+D:\f\AimStar-main\CS2_External\Utils\ProcessManager.hpp(161,32): warning C4312: приведение типов: преобразование из "ULONG" в "DWORD *" большего размера
+  (компиляция исходного файла "Utils/ConfigSaver.cpp")
+  
+D:\f\AimStar-main\CS2_External\MenuConfig.hpp(153,23): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+  (компиляция исходного файла "Utils/ConfigSaver.cpp")
+  
+D:\f\AimStar-main\CS2_External\Features\RCS.h(17,21): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+  (компиляция исходного файла "Utils/ConfigSaver.cpp")
+  
+D:\f\AimStar-main\CS2_External\Features\RCS.h(18,21): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+  (компиляция исходного файла "Utils/ConfigSaver.cpp")
+  
+D:\f\AimStar-main\CS2_External\Features\RCS.h(22,14): warning C4101: clientState: неиспользованная локальная переменная
+  (компиляция исходного файла "Utils/ConfigSaver.cpp")
+  
+D:\f\AimStar-main\CS2_External\Features\RCS.h(74,35): warning C4018: >: несоответствие типов со знаком и без знака
+  (компиляция исходного файла "Utils/ConfigSaver.cpp")
+  
+D:\f\AimStar-main\CS2_External\AimBot.hpp(49,35): warning C4018: <: несоответствие типов со знаком и без знака
+  (компиляция исходного файла "Utils/ConfigSaver.cpp")
+  
+D:\f\AimStar-main\CS2_External\AimBot.hpp(69,27): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+  (компиляция исходного файла "Utils/ConfigSaver.cpp")
+  
+D:\f\AimStar-main\CS2_External\AimBot.hpp(70,27): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+  (компиляция исходного файла "Utils/ConfigSaver.cpp")
+  
+D:\f\AimStar-main\CS2_External\AimBot.hpp(76,24): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+  (компиляция исходного файла "Utils/ConfigSaver.cpp")
+  
+D:\f\AimStar-main\CS2_External\AimBot.hpp(83,23): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+  (компиляция исходного файла "Utils/ConfigSaver.cpp")
+  
+D:\f\AimStar-main\CS2_External\AimBot.hpp(90,55): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+  (компиляция исходного файла "Utils/ConfigSaver.cpp")
+  
+D:\f\AimStar-main\CS2_External\AimBot.hpp(102,57): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+  (компиляция исходного файла "Utils/ConfigSaver.cpp")
+  
+D:\f\AimStar-main\CS2_External\AimBot.hpp(103,59): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+  (компиляция исходного файла "Utils/ConfigSaver.cpp")
+  
+D:\f\AimStar-main\CS2_External\AimBot.hpp(104,20): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+  (компиляция исходного файла "Utils/ConfigSaver.cpp")
+  
+D:\f\AimStar-main\CS2_External\AimBot.hpp(164,52): warning C4244: аргумент: преобразование "float" в "DWORD", возможна потеря данных
+  (компиляция исходного файла "Utils/ConfigSaver.cpp")
+  
+D:\f\AimStar-main\CS2_External\AimBot.hpp(164,43): warning C4244: аргумент: преобразование "float" в "DWORD", возможна потеря данных
+  (компиляция исходного файла "Utils/ConfigSaver.cpp")
+  
+D:\f\AimStar-main\CS2_External\AimBot.hpp(183,24): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+  (компиляция исходного файла "Utils/ConfigSaver.cpp")
+  
+D:\f\AimStar-main\CS2_External\AimBot.hpp(185,57): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+  (компиляция исходного файла "Utils/ConfigSaver.cpp")
+  
+D:\f\AimStar-main\CS2_External\AimBot.hpp(186,59): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+  (компиляция исходного файла "Utils/ConfigSaver.cpp")
+  
+D:\f\AimStar-main\CS2_External\AimBot.hpp(187,20): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+  (компиляция исходного файла "Utils/ConfigSaver.cpp")
+  
+D:\f\AimStar-main\CS2_External\AimBot.hpp(195,35): warning C4018: >: несоответствие типов со знаком и без знака
+  (компиляция исходного файла "Utils/ConfigSaver.cpp")
+  
+  GlobalVars.cpp
+D:\f\AimStar-main\CS2_External\Utils\ProcessManager.hpp(8,1): warning C4005: _is_invalid: изменение макроопределения
+  (компиляция исходного файла "Utils/GlobalVars.cpp")
+  D:\f\AimStar-main\CS2_External\Utils\ProcessManager.hpp(7,1):
+  см. предыдущее определение "_is_invalid"
+  
+D:\f\AimStar-main\CS2_External\Utils\ProcessManager.hpp(129,40): warning C4244: *=: преобразование "double" в "DWORD", возможна потеря данных
+  (компиляция исходного файла "Utils/GlobalVars.cpp")
+  
+D:\f\AimStar-main\CS2_External\Utils\ProcessManager.hpp(150,21): warning C4018: <: несоответствие типов со знаком и без знака
+  (компиляция исходного файла "Utils/GlobalVars.cpp")
+  
+D:\f\AimStar-main\CS2_External\Utils\ProcessManager.hpp(161,32): warning C4312: приведение типов: преобразование из "ULONG" в "DWORD *" большего размера
+  (компиляция исходного файла "Utils/GlobalVars.cpp")
+  
+  MemorySearch.cpp
+D:\f\AimStar-main\CS2_External\Utils\ProcessManager.hpp(8,1): warning C4005: _is_invalid: изменение макроопределения
+  (компиляция исходного файла "Utils/MemorySearch.cpp")
+  D:\f\AimStar-main\CS2_External\Utils\ProcessManager.hpp(7,1):
+  см. предыдущее определение "_is_invalid"
+  
+D:\f\AimStar-main\CS2_External\Utils\ProcessManager.hpp(129,40): warning C4244: *=: преобразование "double" в "DWORD", возможна потеря данных
+  (компиляция исходного файла "Utils/MemorySearch.cpp")
+  
+D:\f\AimStar-main\CS2_External\Utils\ProcessManager.hpp(150,21): warning C4018: <: несоответствие типов со знаком и без знака
+  (компиляция исходного файла "Utils/MemorySearch.cpp")
+  
+D:\f\AimStar-main\CS2_External\Utils\ProcessManager.hpp(161,32): warning C4312: приведение типов: преобразование из "ULONG" в "DWORD *" большего размера
+  (компиляция исходного файла "Utils/MemorySearch.cpp")
+  
+D:\f\AimStar-main\CS2_External\Utils\MemorySearch.cpp(23,28): warning C4267: return: преобразование из "size_t" в "int"; возможна потеря данных
+D:\f\AimStar-main\CS2_External\Utils\MemorySearch.cpp(38,22): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+D:\f\AimStar-main\CS2_External\Utils\MemorySearch.cpp(40,26): warning C4018: <: несоответствие типов со знаком и без знака
+D:\f\AimStar-main\CS2_External\Utils\MemorySearch.cpp(44,35): warning C4018: <: несоответствие типов со знаком и без знака
+D:\f\AimStar-main\CS2_External\Utils\MemorySearch.cpp(49,29): warning C4018: >=: несоответствие типов со знаком и без знака
+D:\f\AimStar-main\CS2_External\Utils\MemorySearch.cpp(91,101): warning C4244: аргумент: преобразование "SIZE_T" в "DWORD", возможна потеря данных
+  Создание кода...
+yaml-cpp.lib(ostream_wrapper.obj) : error LNK2038: обнаружено несоответствие для "_ITERATOR_DEBUG_LEVEL": значение "0" не соответствует значению "2" в Bone.obj
+yaml-cpp.lib(ostream_wrapper.obj) : error LNK2038: обнаружено несоответствие для "RuntimeLibrary": значение "MD_DynamicRelease" не соответствует значению "MDd_DynamicDebug" в Bone.obj
+yaml-cpp.lib(emitter.obj) : error LNK2038: обнаружено несоответствие для "_ITERATOR_DEBUG_LEVEL": значение "0" не соответствует значению "2" в Bone.obj
+yaml-cpp.lib(emitter.obj) : error LNK2038: обнаружено несоответствие для "RuntimeLibrary": значение "MD_DynamicRelease" не соответствует значению "MDd_DynamicDebug" в Bone.obj
+yaml-cpp.lib(exceptions.obj) : error LNK2038: обнаружено несоответствие для "_ITERATOR_DEBUG_LEVEL": значение "0" не соответствует значению "2" в Bone.obj
+yaml-cpp.lib(exceptions.obj) : error LNK2038: обнаружено несоответствие для "RuntimeLibrary": значение "MD_DynamicRelease" не соответствует значению "MDd_DynamicDebug" в Bone.obj
+yaml-cpp.lib(memory.obj) : error LNK2038: обнаружено несоответствие для "_ITERATOR_DEBUG_LEVEL": значение "0" не соответствует значению "2" в Bone.obj
+yaml-cpp.lib(memory.obj) : error LNK2038: обнаружено несоответствие для "RuntimeLibrary": значение "MD_DynamicRelease" не соответствует значению "MDd_DynamicDebug" в Bone.obj
+yaml-cpp.lib(node_data.obj) : error LNK2038: обнаружено несоответствие для "_ITERATOR_DEBUG_LEVEL": значение "0" не соответствует значению "2" в Bone.obj
+yaml-cpp.lib(node_data.obj) : error LNK2038: обнаружено несоответствие для "RuntimeLibrary": значение "MD_DynamicRelease" не соответствует значению "MDd_DynamicDebug" в Bone.obj
+yaml-cpp.lib(convert.obj) : error LNK2038: обнаружено несоответствие для "_ITERATOR_DEBUG_LEVEL": значение "0" не соответствует значению "2" в Bone.obj
+yaml-cpp.lib(convert.obj) : error LNK2038: обнаружено несоответствие для "RuntimeLibrary": значение "MD_DynamicRelease" не соответствует значению "MDd_DynamicDebug" в Bone.obj
+yaml-cpp.lib(parse.obj) : error LNK2038: обнаружено несоответствие для "_ITERATOR_DEBUG_LEVEL": значение "0" не соответствует значению "2" в Bone.obj
+yaml-cpp.lib(parse.obj) : error LNK2038: обнаружено несоответствие для "RuntimeLibrary": значение "MD_DynamicRelease" не соответствует значению "MDd_DynamicDebug" в Bone.obj
+yaml-cpp.lib(emitterstate.obj) : error LNK2038: обнаружено несоответствие для "_ITERATOR_DEBUG_LEVEL": значение "0" не соответствует значению "2" в Bone.obj
+yaml-cpp.lib(emitterstate.obj) : error LNK2038: обнаружено несоответствие для "RuntimeLibrary": значение "MD_DynamicRelease" не соответствует значению "MDd_DynamicDebug" в Bone.obj
+yaml-cpp.lib(emitterutils.obj) : error LNK2038: обнаружено несоответствие для "_ITERATOR_DEBUG_LEVEL": значение "0" не соответствует значению "2" в Bone.obj
+yaml-cpp.lib(emitterutils.obj) : error LNK2038: обнаружено несоответствие для "RuntimeLibrary": значение "MD_DynamicRelease" не соответствует значению "MDd_DynamicDebug" в Bone.obj
+yaml-cpp.lib(nodebuilder.obj) : error LNK2038: обнаружено несоответствие для "_ITERATOR_DEBUG_LEVEL": значение "0" не соответствует значению "2" в Bone.obj
+yaml-cpp.lib(nodebuilder.obj) : error LNK2038: обнаружено несоответствие для "RuntimeLibrary": значение "MD_DynamicRelease" не соответствует значению "MDd_DynamicDebug" в Bone.obj
+yaml-cpp.lib(parser.obj) : error LNK2038: обнаружено несоответствие для "_ITERATOR_DEBUG_LEVEL": значение "0" не соответствует значению "2" в Bone.obj
+yaml-cpp.lib(parser.obj) : error LNK2038: обнаружено несоответствие для "RuntimeLibrary": значение "MD_DynamicRelease" не соответствует значению "MDd_DynamicDebug" в Bone.obj
+yaml-cpp.lib(regex_yaml.obj) : error LNK2038: обнаружено несоответствие для "_ITERATOR_DEBUG_LEVEL": значение "0" не соответствует значению "2" в Bone.obj
+yaml-cpp.lib(regex_yaml.obj) : error LNK2038: обнаружено несоответствие для "RuntimeLibrary": значение "MD_DynamicRelease" не соответствует значению "MDd_DynamicDebug" в Bone.obj
+yaml-cpp.lib(binary.obj) : error LNK2038: обнаружено несоответствие для "_ITERATOR_DEBUG_LEVEL": значение "0" не соответствует значению "2" в Bone.obj
+yaml-cpp.lib(binary.obj) : error LNK2038: обнаружено несоответствие для "RuntimeLibrary": значение "MD_DynamicRelease" не соответствует значению "MDd_DynamicDebug" в Bone.obj
+yaml-cpp.lib(null.obj) : error LNK2038: обнаружено несоответствие для "_ITERATOR_DEBUG_LEVEL": значение "0" не соответствует значению "2" в Bone.obj
+yaml-cpp.lib(null.obj) : error LNK2038: обнаружено несоответствие для "RuntimeLibrary": значение "MD_DynamicRelease" не соответствует значению "MDd_DynamicDebug" в Bone.obj
+yaml-cpp.lib(directives.obj) : error LNK2038: обнаружено несоответствие для "_ITERATOR_DEBUG_LEVEL": значение "0" не соответствует значению "2" в Bone.obj
+yaml-cpp.lib(directives.obj) : error LNK2038: обнаружено несоответствие для "RuntimeLibrary": значение "MD_DynamicRelease" не соответствует значению "MDd_DynamicDebug" в Bone.obj
+yaml-cpp.lib(scanner.obj) : error LNK2038: обнаружено несоответствие для "_ITERATOR_DEBUG_LEVEL": значение "0" не соответствует значению "2" в Bone.obj
+yaml-cpp.lib(scanner.obj) : error LNK2038: обнаружено несоответствие для "RuntimeLibrary": значение "MD_DynamicRelease" не соответствует значению "MDd_DynamicDebug" в Bone.obj
+yaml-cpp.lib(singledocparser.obj) : error LNK2038: обнаружено несоответствие для "_ITERATOR_DEBUG_LEVEL": значение "0" не соответствует значению "2" в Bone.obj
+yaml-cpp.lib(singledocparser.obj) : error LNK2038: обнаружено несоответствие для "RuntimeLibrary": значение "MD_DynamicRelease" не соответствует значению "MDd_DynamicDebug" в Bone.obj
+yaml-cpp.lib(stream.obj) : error LNK2038: обнаружено несоответствие для "_ITERATOR_DEBUG_LEVEL": значение "0" не соответствует значению "2" в Bone.obj
+yaml-cpp.lib(stream.obj) : error LNK2038: обнаружено несоответствие для "RuntimeLibrary": значение "MD_DynamicRelease" не соответствует значению "MDd_DynamicDebug" в Bone.obj
+yaml-cpp.lib(simplekey.obj) : error LNK2038: обнаружено несоответствие для "_ITERATOR_DEBUG_LEVEL": значение "0" не соответствует значению "2" в Bone.obj
+yaml-cpp.lib(simplekey.obj) : error LNK2038: обнаружено несоответствие для "RuntimeLibrary": значение "MD_DynamicRelease" не соответствует значению "MDd_DynamicDebug" в Bone.obj
+yaml-cpp.lib(scantoken.obj) : error LNK2038: обнаружено несоответствие для "_ITERATOR_DEBUG_LEVEL": значение "0" не соответствует значению "2" в Bone.obj
+yaml-cpp.lib(scantoken.obj) : error LNK2038: обнаружено несоответствие для "RuntimeLibrary": значение "MD_DynamicRelease" не соответствует значению "MDd_DynamicDebug" в Bone.obj
+yaml-cpp.lib(tag.obj) : error LNK2038: обнаружено несоответствие для "_ITERATOR_DEBUG_LEVEL": значение "0" не соответствует значению "2" в Bone.obj
+yaml-cpp.lib(tag.obj) : error LNK2038: обнаружено несоответствие для "RuntimeLibrary": значение "MD_DynamicRelease" не соответствует значению "MDd_DynamicDebug" в Bone.obj
+yaml-cpp.lib(depthguard.obj) : error LNK2038: обнаружено несоответствие для "_ITERATOR_DEBUG_LEVEL": значение "0" не соответствует значению "2" в Bone.obj
+yaml-cpp.lib(depthguard.obj) : error LNK2038: обнаружено несоответствие для "RuntimeLibrary": значение "MD_DynamicRelease" не соответствует значению "MDd_DynamicDebug" в Bone.obj
+yaml-cpp.lib(scanscalar.obj) : error LNK2038: обнаружено несоответствие для "_ITERATOR_DEBUG_LEVEL": значение "0" не соответствует значению "2" в Bone.obj
+yaml-cpp.lib(scanscalar.obj) : error LNK2038: обнаружено несоответствие для "RuntimeLibrary": значение "MD_DynamicRelease" не соответствует значению "MDd_DynamicDebug" в Bone.obj
+yaml-cpp.lib(scantag.obj) : error LNK2038: обнаружено несоответствие для "_ITERATOR_DEBUG_LEVEL": значение "0" не соответствует значению "2" в Bone.obj
+yaml-cpp.lib(scantag.obj) : error LNK2038: обнаружено несоответствие для "RuntimeLibrary": значение "MD_DynamicRelease" не соответствует значению "MDd_DynamicDebug" в Bone.obj
+yaml-cpp.lib(exp.obj) : error LNK2038: обнаружено несоответствие для "_ITERATOR_DEBUG_LEVEL": значение "0" не соответствует значению "2" в Bone.obj
+yaml-cpp.lib(exp.obj) : error LNK2038: обнаружено несоответствие для "RuntimeLibrary": значение "MD_DynamicRelease" не соответствует значению "MDd_DynamicDebug" в Bone.obj
+LINK : warning LNK4098: библиотека по умолчанию "MSVCRT" конфликтует с использованием других библиотек; используйте /NODEFAULTLIB:library
+D:\f\AimStar-main\x64\Debug\AimStar.exe : fatal error LNK1319: обнаружено несоответствий: 50
